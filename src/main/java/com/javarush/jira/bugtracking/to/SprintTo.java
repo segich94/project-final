@@ -27,5 +27,6 @@ public class SprintTo extends TitleTo {
         this.startpoint = startpoint;
         this.endpoint = endpoint;
         this.project = project;
+
     }
 }
